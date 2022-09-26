@@ -17,14 +17,17 @@
                 Console.WriteLine(b);
                 b++;
             }
-            Console.WriteLine("задание №4:");           // задание №4
-            for (int i = 0; i <= 100; i += 1)
+            Console.WriteLine("задание №3:");           // задание №3
+            for (var i = 0; i < 7; i++)
             {
-                if (i № 2 == 0)
-               {
-                Console.WriteLine($"{i}");
+                for(var j = 0; j < 4; j++)
+                {
+                    Console.WriteLine('#');
+                }
+                Console.WriteLine();
             }
+
         }
     }
-    }
+    
 }
