@@ -1,0 +1,15 @@
+D:\C# projects\pz_13\pz_13\bin\Debug\net6.0\pz_13.exe
+D:\C# projects\pz_13\pz_13\bin\Debug\net6.0\pz_13.deps.json
+D:\C# projects\pz_13\pz_13\bin\Debug\net6.0\pz_13.runtimeconfig.json
+D:\C# projects\pz_13\pz_13\bin\Debug\net6.0\pz_13.dll
+D:\C# projects\pz_13\pz_13\bin\Debug\net6.0\pz_13.pdb
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\pz_13.csproj.AssemblyReference.cache
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\pz_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\pz_13.AssemblyInfoInputs.cache
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\pz_13.AssemblyInfo.cs
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\pz_13.csproj.CoreCompileInputs.cache
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\pz_13.dll
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\refint\pz_13.dll
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\pz_13.pdb
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\pz_13.genruntimeconfig.cache
+D:\C# projects\pz_13\pz_13\obj\Debug\net6.0\ref\pz_13.dll
