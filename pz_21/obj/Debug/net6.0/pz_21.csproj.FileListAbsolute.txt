@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\pz_22\bin\Debug\net6.0\pz_21.exe
+C:\Users\MSI\Desktop\pz_22\bin\Debug\net6.0\pz_21.deps.json
+C:\Users\MSI\Desktop\pz_22\bin\Debug\net6.0\pz_21.runtimeconfig.json
+C:\Users\MSI\Desktop\pz_22\bin\Debug\net6.0\pz_21.dll
+C:\Users\MSI\Desktop\pz_22\bin\Debug\net6.0\pz_21.pdb
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\pz_21.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\pz_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\pz_21.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\pz_21.AssemblyInfo.cs
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\pz_21.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\pz_21.dll
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\refint\pz_21.dll
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\pz_21.pdb
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\pz_21.genruntimeconfig.cache
+C:\Users\MSI\Desktop\pz_22\obj\Debug\net6.0\ref\pz_21.dll
